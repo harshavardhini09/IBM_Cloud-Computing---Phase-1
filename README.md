@@ -1,2 +1,2 @@
-Phase - 2 
-Task : Innovation Phase 
+Project on E-commerce website
+ contains 5 phases and here present 4 phases
